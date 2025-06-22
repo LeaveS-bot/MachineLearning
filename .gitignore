@@ -1,0 +1,6 @@
+ml_env/            # 忽略整个虚拟环境
+__pycache__/       # 忽略Python缓存
+*.pyc              # 忽略编译文件
+*.log              # 忽略日志文件
+.DS_Store          # 忽略Mac系统文件
+
